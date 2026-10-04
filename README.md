@@ -1,4 +1,4 @@
-*This is a submission for the [Hacktoberfest Weekend Challenge: Build for a Friend](https://dev.to/challenges/hacktoberfest-weekend-2026-10-01)*
+This is a submission for the [Hacktoberfest Weekend Challenge: Build for a Friend](https://dev.to/challenges/hacktoberfest-weekend-2026-10-01)*
 
 ## What I Built
 
@@ -23,8 +23,8 @@ Alex suffered from **study app fatigue**:
 
 ## Demo
 
-- **Live Demo**: [Deploy on GitHub Pages / Vercel / Netlify](https://your-demo-url.vercel.app) *(Replace with your deployment link)*
-- **Preview Video / GIF**: *(Insert Loom, YouTube, or GIF walkthrough showing the timer, 3D card flip, and quiz runner)*
+- **Live Demo**: Open (https://vinamraa05.github.io/Recaller-Study/) in any browser.
+- **Preview Video**: Google Drive Link (https://drive.google.com/file/d/17VeQBhAPINF4SxuLOea3XdfvJKGFOHIV/view?usp=drivesdk)*
 
 ### Key Highlights
 - **Zero-Friction Startup**: No logins, no cookies, zero external dependencies. Runs directly in any browser.
@@ -89,6 +89,7 @@ Developing Recaller was an end-to-end collaborative journey with the Google Anti
 
 ## Prize Categories
 
-- **Best Overall**
-- **Build for a Friend**
-- **Most Useful / Pragmatic AI Application**
+- **Featured partner category**
+
+---
+**Thank You!**
